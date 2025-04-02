@@ -5,7 +5,7 @@ export default function MetricsSection() {
                 <img
                     src="/waves.png"
                     alt="Background image"
-                    className="object-cover absolute inset-0 size-full rotate-90 md:rotate-0 scale-200 md:scale-0" />
+                    className="object-cover absolute inset-0 size-full rotate-90 md:rotate-0 scale-200 md:scale-100" />
             </div>
             <div className="z-10 backdrop-blur-2xl backdrop-hue-rotate-140 px-8 md:px-40 pt-8 md:pt-14 pb-8 md:pb-16 w-full h-full">
                 <div className="flex flex-col w-full max-md:max-w-full">
