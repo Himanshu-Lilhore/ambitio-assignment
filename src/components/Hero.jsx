@@ -14,7 +14,7 @@ export default function Hero() {
                 <img
                     src="/crownLogoPrimary.png"
                     alt="crown logo"
-                    className="hover:scale-110 size-44 md:size-64 absolute top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%] transition-all duration-300"
+                    className="crown hover:scale-110 size-44 md:size-64 absolute top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%] transition-all duration-300"
                 />
             </div>
 
